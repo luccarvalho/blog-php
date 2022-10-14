@@ -1,3 +1,9 @@
+<?php
+
+include_once("helpers/url.php")
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -16,5 +22,15 @@
 
 <body>
     <header>
-        Template Cabeçalho
+        <a href="<?= $BASE_URL ?>" id="logo">
+            <img src="img/logo.svg" alt="Blog Codar">
+        </a>
+        <nav>
+            <ul id="navbar">
+                <li><a href="<?= $BASE_URL ?>" class="nav-link">Home</a></li>
+                <li><a href="#" class="nav-link">Categorias</a></li>
+                <li><a href="#" class="nav-link">Sobre</a></li>
+                <li><a href="<?= $BASE_URL ?>contato.php" class="nav-link">Contato</a></li>
+            </ul>
+        </nav>
     </header>
