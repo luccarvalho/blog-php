@@ -1,8 +1,6 @@
 # blog_php
 
-> :construction: Projeto em construção :construction:
-
-Primeiro projeto desenvolvido utilizando o PHP.
+> Primeiro projeto desenvolvido utilizando a linguagem PHP.
 
 O projeto é um blog responsivo, com diversos elementos como: home page com barra de navegação, post em destaque, dados como título, descrição, tags e um rodapé.
 
