@@ -1,6 +1,6 @@
 # blog_php
 
-:1st_place_medal: **Primeiro projeto desenvolvido utilizando a linguagem PHP.**
+> :1st_place_medal: **Primeiro projeto desenvolvido utilizando a linguagem PHP.**
 
 ## Descrição do projeto:
 
